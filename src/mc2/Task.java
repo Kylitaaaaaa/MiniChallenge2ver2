@@ -41,20 +41,6 @@ public class Task {
 		
 	}
 	
-	public void setName(){
-		
-	}
-	
 
-	
-	public void setTime(){
-		
-	}
-	
-
-	
-	public void setStatus(){
-		
-	}
 
 }
