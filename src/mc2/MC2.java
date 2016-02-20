@@ -6,4 +6,5 @@ public class MC2 {
     //Edit
     //sex
     //edit
+    //edible
 }
