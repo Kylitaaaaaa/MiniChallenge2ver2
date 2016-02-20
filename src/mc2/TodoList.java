@@ -7,7 +7,7 @@ public class TodoList {
 	
 	//nuck figgas
 	public TodoList(){
-		
+		listView = new ListView("List View To-Do List");
 		
 		
 		
